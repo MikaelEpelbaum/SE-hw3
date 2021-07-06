@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1834cce5-7fe4-42b8-81cb-32efd5788e43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dgey0POGvAxEPxEsvIWk5LFALI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mikael\OneDrive\Documents\Technion\Printemps 2020\handasat tochna\hw4" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DocumentRetrieval" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DocumentRetrieval" />
+      <module name="hw4" />
+      <option name="PROGRAM_PARAMETERS" value="AP_Coll_parsed\ src\BooleanQueries.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="PROGRAM_PARAMETERS" value="AP_Coll_parsed\" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1834cce5-7fe4-42b8-81cb-32efd5788e43" name="Default Changelist" comment="" />
+      <created>1592851413233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592851413233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Project_Structure" timestamp="1592851422774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1592851422774" />
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1593702504889">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="96" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1593702504889" />
+    <state x="203" y="0" width="982" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593704773436">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="203" y="0" width="982" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1593704773436" />
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1595841560424">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="88" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/-1920.-623.1920.1040@0.0.1280.680" timestamp="1595841560424" />
+    <state x="444" y="180" width="639" height="500" key="#xdebugger.evaluate" timestamp="1593701606443">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="444" y="180" width="639" height="500" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1593701606443" />
+    <state width="478" height="466" key="DebuggerActiveHint" timestamp="1593700950048">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="478" height="466" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1593700950048" />
+    <state width="1237" height="72" key="GridCell.Tab.0.bottom" timestamp="1593710441931">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="72" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593710441931" />
+    <state width="1237" height="72" key="GridCell.Tab.0.center" timestamp="1593710441931">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="72" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593710441931" />
+    <state width="1237" height="72" key="GridCell.Tab.0.left" timestamp="1593710441931">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="72" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593710441931" />
+    <state width="1237" height="72" key="GridCell.Tab.0.right" timestamp="1593710441931">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="72" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593710441931" />
+    <state width="1237" height="180" key="GridCell.Tab.1.bottom" timestamp="1593704335829">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593704335829" />
+    <state width="1237" height="180" key="GridCell.Tab.1.center" timestamp="1593704335829">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1593704335829" />
+    <state width="1237" height="180" key="GridCell.Tab.1.left" timestamp="1593704335829">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1593704335829" />
+    <state width="1237" height="180" key="GridCell.Tab.1.right" timestamp="1593704335829">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="180" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1593704335829" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1593177775195">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1593177775195" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1593549964189">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1593549964189" />
+    <state x="236" y="46" width="742" height="606" key="find.popup" timestamp="1596009142553">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="236" y="46" width="742" height="606" key="find.popup/0.0.1280.680/-1920.-623.1920.1040@0.0.1280.680" timestamp="1596009142553" />
+    <state x="236" y="46" width="742" height="606" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1593543594060" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1593370880657">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1593370880657" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AbstractInvertedIndex.java</url>
+          <line>110</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AbstractInvertedIndex.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((CaseInsensitiveFactory)caseInsensitiveIndex).inSensitive" custom="CaseInsensitiveFactory" />
+        <watch expression="((CaseInsensitiveFactory)caseInsensitiveIndex).inSensitive" language="JAVA" custom="CaseInsensitiveFactory" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/hw4$DocumentRetrieval.ic" NAME="DocumentRetrieval Coverage Results" MODIFIED="1593697362881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
